@@ -1,10 +1,8 @@
-# CryptoWorld App
+## CryptoWorld App
 
-## App can be used to get information about top cryptocurrencies,latest news and crypto exchanges.
+# App can be used to get information about top cryptocurrencies,latest news and crypto exchanges.
 
-## Required data is fetched using coingecko and rapid api.
-
-## Price charts of various cryptocurrencies can also be viewed.
+# Required data is fetched using coingecko and rapid api.
 
 ## Getting Started with Create React App
 
