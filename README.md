@@ -1,10 +1,10 @@
-## CryptoWorld App
+# CryptoWorld App
 
-# App can be used to get information about top cryptocurrencies,latest news and crypto exchanges.
+## App can be used to get information about top cryptocurrencies,latest news and crypto exchanges.
 
-# Required data is fetched using coingecko and rapid api.
+## Required data is fetched using coingecko and rapid api.
 
-## Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
